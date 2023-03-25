@@ -26,7 +26,6 @@
         -   WoT, Pinterest, YouTube, Dropbox, Reddit, Instagram
 -   What's in a language? [3][?]
     -   Any language is a set of rules (syntax+grammar) of how to combine words (vocabluary) into sentences to convey some meaning.
-
     -   Programming language is a set of rules of how to instruct a computer to do a certain things.
     -   Another term is compiler. Compiler is a special program that translates text of another program into understandable instructions for computer (OS+CPU).
         - ![](img/lesson_01/image_03.png)
