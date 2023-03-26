@@ -14,13 +14,13 @@
         -   Intuitive
         -   Slow, but who cares :)
         -   Look how readable it is:
-            - ![](img/lesson_01/image_01.png)
+            - ![](img/image_01.png)
             - Elaborate on this example and emphasize that this very example will be used in one of the next lessons
     - Domains [1]
         -   DS, ML, AI
         -   Automation
         -   Web Backend
-            - ![](img/lesson_01/image_02.png)
+            - ![](img/image_02.png)
     -   Companies & products [1]
         -   Google, MS, Lyft
         -   WoT, Pinterest, YouTube, Dropbox, Reddit, Instagram
@@ -28,11 +28,11 @@
     -   Any language is a set of rules (syntax+grammar) of how to combine words (vocabluary) into sentences to convey some meaning.
     -   Programming language is a set of rules of how to instruct a computer to do a certain things.
     -   Another term is compiler. Compiler is a special program that translates text of another program into understandable instructions for computer (OS+CPU).
-        - ![](img/lesson_01/image_03.png)
+        - ![](img/image_03.png)
     -   In case of Python there is a VM. VM takes special bytes codes and run them on CPU. This additional level of indirection allows to have cross-platform programs.
-        - ![](img/lesson_01/image_04.png)
+        - ![](img/image_04.png)
     -   In Python compiler and VM are united in one executable file, which is called interpreter.
-        - ![](img/lesson_01/image_05.png)
+        - ![](img/image_05.png)
   -   That's why we need to install language interpreter to work with Python. Let's do it!
 -   Install and run Python: 3.<latest> [2]
     -   Show how to download and install

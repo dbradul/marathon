@@ -1,0 +1,55 @@
+## Lesson2 - print function, IDE, 1st project [16]
+-   *__info*
+    -   It might be useful to start a new video with short recap of previous lesson to warm up students a little bit
+-   Short recap [1]
+    -   Installed Python
+    -   tried to use REPL
+-   Run code with CLI [6]
+    - REPL doesn't save commands history after restart. Let's fix it!
+    - Create a separate file, write 2+2
+        -   Such files is called module
+    - python \<filepath\>
+    - Note that nothing is printed
+        -   This is the difference between REPL and CLI
+        -   It is intentional as we want to print results only explicitly
+    - Add print(2+2), note the difference
+        - We can do print(2+2) in REPL as well
+        - about the 'print' function a little later
+    - Experiment
+        -   print(5)
+        -   print(1.23)
+        -   print()
+        -   print('42')
+        -   More on this later
+-   Note that [2]
+    -   no indentations
+    -   no ; at the end
+    -   each command in a separate line
+    -   More on style: PEP-8
+-   Use IDE instead of notepad: PyCharm vs VSCode [7]
+    -   However, CLI has its drawbacks as well: no colour, no suggestions, etc
+    -   So, let's use IDE
+    -   IDE is just a more advanced notepad for developers to edit, run and debug code
+    -   Install PyCharm or VSCode [2]
+        -   Choose Community
+        -   Default path for program files
+        -   Create shortcut, associate files
+        -   Confirm user agreement
+    -   Create the 1st project and print "Hello world!" [3]
+        -   Project is just a folder with logically united files, e.g. game or site.
+        -   Choose a project path
+        -   Leave defaults
+            -   If interpreter is not found, show how to choose existing one
+        -   In our case project consists of 1 file: main.py
+        -   Explain the project structure
+        -   Remove the file and create new one for demonstration purpose
+        -   Empty file is correct Python module: let's run it!
+    -   Run with IDE [2]
+        -   Context menu: Run -> nothing is displayed
+        -   print(2+2)
+        -   Run -> 4 is printed
+        -   Note how IDE starts your module: similar to what we did manually
+        -   So IDE is just a useful UI wrapper around command line
+-   H/w [0]
+    - 1\. Create your 1st program that prints "Hello world!"
+    - Demonstrate to students how to use auto checker in LMS
