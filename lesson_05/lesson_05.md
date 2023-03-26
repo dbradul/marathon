@@ -8,23 +8,23 @@
           - 2
           - 6
           - -5.5
-    - 12\. You need to calculate the area of a circle with radius `r`. Which of these expressions solves the problem: math.pi * r ** 2
+    - 12\. You need to calculate the area of a circle with radius `r`. Which of these expressions solves the problem:
       - Checkboxes:
         - math.pi * (r ** 2)
         - (math.pi * r) ** 2
         - r * math.pi ** 2
         - pow(r, 2) * math.pi
-    - 13\. Submit a code that calculates and prints the area of a rectangle with sides `a`and `b`.
-      - Complete the code:
-      - ```
+    - 13\. Напишіть код, який обчислює та виводить площу прямокутника зі сторонами `a` та `b`.
+      - Доповніть код:
+       ```
         a = 5
         b = 10
           
         # your code here
         ```
-    - 14\. Submit a code that calculates and prints the length of a circle with radius `r`.
-      - Complete the code:
-      - ```
+    - 14\. Напишіть код, який обчислює і виводить довжину кола радіусом `r`.
+      - Доповніть код:
+       ```
         r = 5
           
         # your code here
