@@ -1,0 +1,69 @@
+## Lesson3 - vars, operators, functions id and type [17]
+- Short recap [0]
+    -   REPL, CLI, IDE
+- How data is stored in memory [8]
+    - var is a name to address a value
+    - operators and operands
+    - var is a reference and can be reassigned
+    - 2 vars can reference the same data: id function
+    - ___meta_
+        - Add diagrams or draw during the lesson?
+- Data types intro [3]
+    -   Technically, everything is saved as 0 and 1. Type defines how to interpret them.
+    -   For example a raw bytestream can be interpreted differently depending on its type:
+        -   01001001001110000100110010001011101 -> 45621 as int
+        -   01001001001110000100110010001011101 -> 123.45 as float
+        -   01001001001110000100110010001011101 -> 'abcd' as string
+    -   Types also defines a set of supported operations and data formats [3]
+        -   float contains .
+        -   string is embraced into "" or ''
+        -   + and * operators are different for numeric and string tyes
+            -   42+1=43 vs '42' + '1' = '421'
+            -   42*2 = 84 vs 'abc'*2 = 'abcabc'
+            -   More on strings later on
+        -   Type can be determined with 'type' builtin func
+- Naming conventions [6]
+    - *__meta*
+        -   More examples and timings can be found in Lecture#3: <https://www.youtube.com/watch?v=qJwkaKgNxfE&t=67s>
+    - snake_style
+    - no transliterations
+    - no Cyrillic symbols
+    - no keywords
+        - ```help("keywords")```
+    - no builtin functions
+        - ```
+          import builtins
+          print(dir(builtins))
+          ```
+        - demonstrate how hiding works with id or print functions
+- H/w
+    - 2\. What is the type of this value: 42
+        -   Radio buttons:
+            -   int
+            -   float
+            -   string
+            -   syntax error
+    - 3\. What is the type of this value: .2
+        -   Radio buttons:
+            -   int
+            -   float
+            -   string
+            -   syntax error
+    - 4\. What is the type of this value: "Python'
+        -   Radio buttons:
+            -   int
+            -   float
+            -   string
+            -   syntax error
+    - 5\. Which of the below var names are correct according to Python naming conventions?
+        -   Checkboxes:
+            - var_a
+            - totalSum
+            - ploschad_figury
+            - id
+    - 6\. What is the meaning of this assigment: a=b
+        -   Radio buttons:
+            -   data is copied from b to a
+            -   a and b are pointing to the same data
+            -   a and b are pointing to the same data, but b is deleted after the assignment
+            -   incorrect syntax

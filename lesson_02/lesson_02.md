@@ -1,5 +1,5 @@
 ## Lesson2 - print function, IDE, 1st project [16]
--   *__info*
+-   *__meta*
     -   It might be useful to start a new video with short recap of previous lesson to warm up students a little bit
 -   Short recap [1]
     -   Installed Python
