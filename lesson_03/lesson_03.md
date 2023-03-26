@@ -1,4 +1,5 @@
 ## Lesson3 - vars, operators, functions id and type [17]
+- Reference: https://www.youtube.com/watch?v=qJwkaKgNxfE
 - Short recap [0]
     -   REPL, CLI, IDE
 - How data is stored in memory [8]

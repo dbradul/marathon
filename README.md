@@ -20,3 +20,7 @@
   - How to interpret results?
   - etc
 - H/w assignments are not explained in details during a lesson. This is to keep the lesson short and potentially change h/w assignments without changing the lesson
+
+### Questions for discussion
+- Bools type?
+- 

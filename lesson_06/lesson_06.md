@@ -1,9 +1,10 @@
 ## Lesson 6 - Functions print and input [16]
+- Reference: https://www.youtube.com/watch?v=8hzpSR_Qaj8 
 - Play with print function [8]
 - Play with input function [8]
   - [?] In the reference course there is no type specification topic covered. Do we need to cover it?
 - H/w:
-    - ___meta_: Вхідні дані отримуються зі стандартного вводу.
+    - Вхідні дані отримуються зі стандартного вводу.
     - 15\. Обчислити результат цього математичного виразу для заданих `a`, `b` та `c`: `a + b * ( c / 2 )`. Вивести результат у наступному форматі: `Результат обчислення = <результат>`.
       - Доповнити код:
        ```
@@ -27,6 +28,8 @@
         ```
     - 18\. Напишіть код, який отримує ціле позитивне число `a` і виведить число pi із точністю до `a`-того знака після коми.
       - Доповнити код:
-       ```
+        ```
+        a = int(input("Введіть ціле позитивне число: "))
+      
         # your code here
         ```

@@ -1,10 +1,11 @@
 ## Lesson2 - print function, IDE, 1st project [16]
--   *__meta*
+- *__meta*
     -   It might be useful to start a new video with short recap of previous lesson to warm up students a little bit
--   Short recap [1]
+- Reference: https://www.youtube.com/watch?v=fb5f0jX9tng
+- Short recap [1]
     -   Installed Python
     -   tried to use REPL
--   Run code with CLI [6]
+- Run code with CLI [6]
     - REPL doesn't save commands history after restart. Let's fix it!
     - Create a separate file, write 2+2
         -   Such files is called module
@@ -21,12 +22,12 @@
         -   print()
         -   print('42')
         -   More on this later
--   Note that [2]
+- Note that [2]
     -   no indentations
     -   no ; at the end
     -   each command in a separate line
     -   More on style: PEP-8
--   Use IDE instead of notepad: PyCharm vs VSCode [7]
+- Use IDE instead of notepad: PyCharm vs VSCode [7]
     -   However, CLI has its drawbacks as well: no colour, no suggestions, etc
     -   So, let's use IDE
     -   IDE is just a more advanced notepad for developers to edit, run and debug code
@@ -50,6 +51,6 @@
         -   Run -> 4 is printed
         -   Note how IDE starts your module: similar to what we did manually
         -   So IDE is just a useful UI wrapper around command line
--   H/w [0]
+- H/w [0]
     - 1\. Create your 1st program that prints "Hello world!"
     - Demonstrate to students how to use auto checker in LMS

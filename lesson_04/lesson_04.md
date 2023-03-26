@@ -1,4 +1,5 @@
 ## Lesson4 - Numeric types, arithmetic operations  [13]
+- Reference: https://www.youtube.com/watch?v=HZrbYY10cJI
 - Numeric types [3]
     -   int, float
     -   int
@@ -13,8 +14,7 @@
             -   float('inf')
             -   NaN
 - Numeric operators [10]
-  - *__meta*: Below is an example of Notebook 
-  - <https://github.com/dbradul/marathon/blob/master/lesson_04.ipynb>
+  - see notebook: lesson_04.ipynb
 - Module math [?]
 - H/w
     - 7\. What is the type of this expression: (4 + 5)**2//3
