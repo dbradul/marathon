@@ -15,7 +15,6 @@
         - Slow, but who cares :)
         - Look how readable it is:
           - ![](img/image_01.png)
-          - Elaborate on this example and emphasize that this very example will be used in one of the next lessons
     - Domains [1]
         -   DS, ML, AI
         -   Automation
@@ -48,4 +47,4 @@
             -   no history after restart
 - H/w [0]
     -   1\. Install Python
-    -   2\. Run and calculate any Python command
+    -   2\. Run any Python command

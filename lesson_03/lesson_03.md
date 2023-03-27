@@ -8,7 +8,7 @@
     - var is a reference and can be reassigned
     - 2 vars can reference the same data: id function
     - ___meta_
-        - Add diagrams or draw during the lesson?
+        - Add diagrams here or draw them during the lesson?
 - Data types intro [3]
     -   Technically, everything is saved as 0 and 1. Type defines how to interpret them.
     -   For example a raw bytestream can be interpreted differently depending on its type:
@@ -18,14 +18,12 @@
     -   Types also defines a set of supported operations and data formats [3]
         -   float contains .
         -   string is embraced into "" or ''
-        -   + and * operators are different for numeric and string tyes
+        -   \+ and * operators are different for numeric and string tyes
             -   42+1=43 vs '42' + '1' = '421'
             -   42*2 = 84 vs 'abc'*2 = 'abcabc'
             -   More on strings later on
-        -   Type can be determined with 'type' builtin func
+        -   Type can be determined with builtin func `type`
 - Naming conventions [6]
-    - *__meta*
-        -   More examples and timings can be found in Lecture#3: <https://www.youtube.com/watch?v=qJwkaKgNxfE&t=67s>
     - snake_style
     - no transliterations
     - no Cyrillic symbols
@@ -36,7 +34,7 @@
           import builtins
           print(dir(builtins))
           ```
-        - demonstrate how hiding works with id or print functions
+        - demonstrate how hiding works with `id` or `print` functions
 - H/w
     - 2\. What is the type of this value: 42
         -   Radio buttons:

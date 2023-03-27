@@ -1,6 +1,6 @@
 ## Lesson2 - print function, IDE, 1st project [16]
 - *__meta*
-    -   It might be useful to start a new video with short recap of previous lesson to warm up students a little bit
+    -   It might be useful to start each lesson with a short recap of previous lesson to warm up students 
 - Reference: https://www.youtube.com/watch?v=fb5f0jX9tng
 - Short recap [1]
     -   Installed Python
@@ -15,7 +15,7 @@
         -   It is intentional as we want to print results only explicitly
     - Add print(2+2), note the difference
         - We can do print(2+2) in REPL as well
-        - about the 'print' function a little later
+        - We will talk about 'print' function later on
     - Experiment
         -   print(5)
         -   print(1.23)
@@ -26,13 +26,14 @@
     -   no indentations
     -   no ; at the end
     -   each command in a separate line
+    -   order from top to bottom, left to right
     -   More on style: PEP-8
 - Use IDE instead of notepad: PyCharm vs VSCode [7]
     -   However, CLI has its drawbacks as well: no colour, no suggestions, etc
     -   So, let's use IDE
     -   IDE is just a more advanced notepad for developers to edit, run and debug code
     -   Install PyCharm or VSCode [2]
-        -   Choose Community
+        -   Choose Community for PyCharm
         -   Default path for program files
         -   Create shortcut, associate files
         -   Confirm user agreement
@@ -49,8 +50,7 @@
         -   Context menu: Run -> nothing is displayed
         -   print(2+2)
         -   Run -> 4 is printed
-        -   Note how IDE starts your module: similar to what we did manually
-        -   So IDE is just a useful UI wrapper around command line
+        -   Note how IDE starts your module: similar to what we did manually in CLI before
+        -   So IDE is also a useful UI wrapper around CLI
 - H/w [0]
     - 1\. Create your 1st program that prints "Hello world!"
-    - Demonstrate to students how to use auto checker in LMS
