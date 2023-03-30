@@ -17,6 +17,7 @@
   - What kind of homework exist?
   - How to submit h/w?
   - How to interpret results?
+  - How to use notebooks?
   - etc
 - H/w assignments are not explained in details during a lesson. This is to keep the lesson short and potentially change h/w assignments without changing the lesson
 
