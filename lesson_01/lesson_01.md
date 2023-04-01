@@ -46,5 +46,5 @@
         -   Note how inconvenient it is to write code like this
             -   no history after restart
 - H/w [0]
-    -   1\. Install Python
-    -   2\. Run any Python command
+    -  Install Python
+    -  Run any Python command
